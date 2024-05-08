@@ -1,5 +1,4 @@
 # Stone-Paper-Scissor-Game
-<h1>Stone, Paper, Scissors Game</h1>
 Welcome to the Stone, Paper, Scissors Game! This project offers a classic game experience between a user and the computer. Players select stone, paper, or scissors to compete against the computer, with a score board keeping track of wins, losses, and ties.</br>
 
 <h3>Features</h3>
